@@ -1,5 +1,5 @@
 {
-      "name": "VampireXRobot",
+      "name": "KawakiRobot",
       "description": "A Powerful  Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -10,7 +10,7 @@
       ],
     
    "logo":    "https://telegra.ph/file/56811b69cbcece20bbebf.jpg",  
-   "repository": "https://github.com/MickeyxD/VampireXRobot",
+   "repository": "https://github.com/MickeyxD/KawakiBot",
    "addons": [
           {
          "options": {
